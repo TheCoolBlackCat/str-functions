@@ -2,6 +2,7 @@
 
 #include "strlen.h"
 #include "strcmp.h"
+#include "strcat.h"
 
 int main () {
 	char* s1 = "this string is 33 characters long";
